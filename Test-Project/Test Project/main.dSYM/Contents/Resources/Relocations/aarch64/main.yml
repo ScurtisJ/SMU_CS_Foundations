@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/jonathanscurtis/Desktop/Foundations/Test Project/main'
+binary-path:     '/Users/jonathanscurtis/Code-Projects/SMU_CS_Foundations/Test-Project/Test Project/main'
 relocations:
   - { offset: 0x2F42, size: 0x8, addend: 0x0, symName: __ZNSt3__124__put_character_sequenceB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m, symObjAddr: 0x14C, symBinAddr: 0x1000032C4, symSize: 0x1EC }
   - { offset: 0x3DAB, size: 0x8, addend: 0x0, symName: __ZNSt3__1lsB8ue170006INS_11char_traitsIcEEEERNS_13basic_ostreamIcT_EES6_PKc, symObjAddr: 0x80, symBinAddr: 0x1000031F8, symSize: 0x48 }
